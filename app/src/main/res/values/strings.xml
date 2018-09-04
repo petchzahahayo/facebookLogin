@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">facelogin</string>
+
+
+    <string name="facebook_app_id">269696297086763</string>
+    <string name="facebook_login_protocol_scheme">fb269696297086763</string>
+
+
+</resources>
